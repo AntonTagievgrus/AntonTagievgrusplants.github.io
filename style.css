@@ -1,4 +1,4 @@
-div {
+body {
   width=device-width;
   height:3000;
     background:lawngreen;
@@ -9,7 +9,7 @@ div {
   margin-right:0;
 }
 body {background: #d6eaf8}
-p {
+a {
   text-decoration: none;
   outline: none;
   display: inline-block;
@@ -25,5 +25,4 @@ p {
   box-shadow: 0 0 20px rgba(0,0,0,.1);
   transition: .5s;
 }
-p:hover {background-position: right center;}
-© 2020 GitHub, Inc.
+a:hover {background-position: right center;}
